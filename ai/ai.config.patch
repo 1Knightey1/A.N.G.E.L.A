@@ -1,0 +1,107 @@
+[
+	{
+		"op": "replace",
+		"path": "/staticOpacity",
+		"value": 0
+	},
+		{
+		"op": "replace",
+		"path": "/aiAnimations/talk/frameNumber",
+		"value": 4
+	},
+  {
+    "op": "replace",
+    "path": "/species/apex/aiFrames",
+    "value": "angela.png"
+  },
+  {
+    "op": "replace",
+    "path": "/species/apex/portraitFrames",
+    "value": "portraits/angela_portrait.png"
+  },
+  
+  {
+    "op": "replace",
+    "path": "/species/avian/aiFrames",
+    "value": "angela.png"
+  },
+  {
+    "op": "replace",
+    "path": "/species/avian/portraitFrames",
+    "value": "portraits/angela_portrait.png"
+  },
+  
+  {
+    "op": "replace",
+    "path": "/species/floran/aiFrames",
+    "value": "angela.png"
+  },
+  {
+    "op": "replace",
+    "path": "/species/floran/portraitFrames",
+    "value": "portraits/angela_portrait.png"
+  },
+  
+  {
+    "op": "replace",
+    "path": "/species/glitch/aiFrames",
+    "value": "angela.png"
+  },
+  {
+    "op": "replace",
+    "path": "/species/glitch/portraitFrames",
+    "value": "portraits/angela_portrait.png"
+  },
+  
+  {
+    "op": "replace",
+    "path": "/species/human/aiFrames",
+    "value": "angela.png"
+  },
+  {
+    "op": "replace",
+    "path": "/species/human/portraitFrames",
+    "value": "portraits/angela_portrait.png"
+  },
+  
+  {
+    "op": "replace",
+    "path": "/species/novakid/aiFrames",
+    "value": "angela.png"
+  },
+  {
+    "op": "replace",
+    "path": "/species/novakid/portraitFrames",
+    "value": "portraits/angela_portrait.png"
+  },
+  
+  {
+    "op": "replace",
+    "path": "/species/hylotl/aiFrames",
+    "value": "angela.png"
+  },
+  {
+    "op": "replace",
+    "path": "/species/hylotl/portraitFrames",
+    "value": "portraits/angela_portrait.png"
+  },
+
+  {
+	"op" : "add",
+	"path" : "/species/kitsune",
+	"value" : {
+	  "aiFrames" : "angela.png",
+	  "portraitFrames" : "portraits/angela_portrait.png",
+	  "staticFrames" : "statickitsune.png"	
+	}
+  },
+  {
+	"op" : "add",
+	"path" : "/species/halfsea",
+	"value" : {
+	  "aiFrames" : "angela.png",
+	  "portraitFrames" : "portraits/angela_portrait.png",
+	  "staticFrames" : "statichalfsea.png"	
+	}
+  }	
+]
