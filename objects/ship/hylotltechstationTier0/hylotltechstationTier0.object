@@ -25,6 +25,7 @@
   "humanDescription" : "If I can reboot this station ANGELA should come back online!",
   "hylotlDescription" : "This console will allow me to communicate with ANGELA. I need to reboot it first.",
   "novakidDescription" : "Time to reboot this station so I can talk to ANGELA.",
+  "nekoDescription" : "If I can reboot this station ANGELA should come back online!",
 
   "inventoryIcon" : "hylotltechstationiconTier0.png",
   "orientations" : [

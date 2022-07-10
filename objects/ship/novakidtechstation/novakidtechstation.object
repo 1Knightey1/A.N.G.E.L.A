@@ -21,6 +21,7 @@
   "humanDescription" : "This station allows me to communicate with ANGELA.",
   "hylotlDescription" : "This console allows me to communicate with ANGELA.",
   "novakidDescription" : "This here station let's me talk with ANGELA.",
+  "nekoDescription" : "This station allows me to communicate with ANGELA.",
 
   "inventoryIcon" : "novakidtechstationicon.png",
   "orientations" : [
