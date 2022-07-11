@@ -14,7 +14,7 @@ function update(...)
 	if protectorate and not storage.lobotomyflyer then
 		storage.lobotomyflyer = true
 		
-		local h = world.containerAddItems(entity.id(), "lobotomyflyer")
+		local h = world.containerAddItems(entity.id(), "lobotomyflyer-codex")
 		if h then
 			world.spawnItem(h, entity.position())
 		end
