@@ -103,5 +103,122 @@
 	  "portraitFrames" : "portraits/angela_portrait.png",
 	  "staticFrames" : "statichalfsea.png"	
 	}
-  }	
+  },
+  { 
+	"op" : "add",
+	"path" : "/species/neko",
+	"value" : {
+		"aiFrames" : "angela.png",
+		"portraitFrames" : "portraits/angela_portrait.png",
+		"staticFrames" : "staticGlitch.png"
+	}
+  },
+  { 
+    "op" : "add",
+    "path" : "/species/ningen",
+    "value" : {
+      "aiFrames" : "angela.png",
+      "portraitFrames" : "portraits/angela_portrait.png",
+      "staticFrames" : "staticNingen.png"
+    }
+  },
+  {
+	"op": "add", 
+	"path": "/species/neki",
+	"value": {
+		"aiFrames": "angela.png",
+		"portraitFrames": "portraits/angela_portrait.png",
+		"staticFrames": "staticNeki.png"
+		}
+  },
+  {
+	"op" : "add",
+	"path" : "/species/arcanian",
+	"value" : {
+		"aiFrames" : "angela.png",
+		"portraitFrames" : "portraits/angela_portrait.png",
+		"staticFrames" : "staticarcanian.png"	
+	}
+  },
+  {
+	"op" : "add",
+	"path" : "/species/avikan",
+	"value" : {
+	  "aiFrames": "angela.png",
+	"portraitFrames": "portraits/angela_portrait.png",
+	  "staticFrames" : "staticAvikan.png"
+	}
+  },
+  {
+	"op" : "add",
+	"path" : "/species/droden",
+	"value" : {
+		"aiFrames": "angela.png",
+		"portraitFrames": "portraits/angela_portrait.png",
+		"staticFrames" : "staticDroden.png"
+	}
+  },
+  {
+	"op" : "add",
+	"path" : "/species/trink",
+	"value" : {
+		"aiFrames": "angela.png",
+		"portraitFrames": "portraits/angela_portrait.png",
+		"staticFrames" : "staticTrink.png"
+	}
+  },
+  { 
+	"op" : "add",
+	"path" : "/species/aegi",
+	"value" : {
+		"aiFrames": "angela.png",
+		"portraitFrames": "portraits/angela_portrait.png",
+		"staticFrames" : "staticAegi.png"
+	}
+  },
+  { 
+	"op" : "add",
+	"path" : "/species/akkimari",
+	"value" : {
+		"aiFrames": "angela.png",
+		"portraitFrames": "portraits/angela_portrait.png",
+		"staticFrames" : "staticAkkimari.png"
+	}
+  },
+  {
+	"op" : "add",
+	"path" : "/species/gic_android",
+	"value" : {
+		"aiFrames": "angela.png",
+		"portraitFrames": "portraits/angela_portrait.png",
+		"staticFrames" : "staticgic_android.png"	
+	}
+  },
+  {
+	"op" : "add",
+	"path" : "/species/gic_realistichuman",
+	"value" : {
+		"aiFrames": "angela.png",
+		"portraitFrames": "portraits/angela_portrait.png",
+		"staticFrames" : "staticgic_realistichuman.png"	
+	}
+  },
+  {
+	"op" : "add",
+	"path" : "/species/gic_realisticfloran",
+	"value" : {
+		"aiFrames": "angela.png",
+		"portraitFrames": "portraits/angela_portrait.png",
+		"staticFrames" : "staticgic_realisticfloran.png"	
+	}
+  },
+  {
+	"op" : "add",
+	"path" : "/species/gic_humanoidcombatrobot",
+	"value" : {
+		"aiFrames": "angela.png",
+		"portraitFrames": "portraits/angela_portrait.png",
+		"staticFrames" : "staticgic_realistichuman.png"	
+	}
+  }
 ]
