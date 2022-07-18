@@ -1,0 +1,13 @@
+[
+	{
+		"op" : "replace",
+		"path" : "/description",
+		"value" : "Something about this ANGELA console bothers me..."
+	},
+	
+	{
+		"op" : "replace",
+		"path" : "/shortDescription",
+		"value" : "A.N.G.E.L.A."
+	}
+]

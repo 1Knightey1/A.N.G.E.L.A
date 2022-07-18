@@ -1,0 +1,248 @@
+[
+	{
+		"op" : "replace", 
+		"path" : "/shortdescription", 
+		"value" : "A.N.G.E.L.A"
+	},
+	
+	{
+		"op" : "replace", 
+		"path" : "/description", 
+		"value" : "Autonomous Next Gen Electronic Lifeform Assistant, or A.N.G.E.L.A for short."
+	},
+	
+	
+
+	{
+		"op": "replace", 
+		"path": "/apexDescription", 
+		"value":"I can talk to ANGELA through this console."
+	},
+	
+	{
+		"op": "replace", 
+		"path": "/avianDescription", 
+		"value": "I can use this station to talk to ANGELA."
+	},
+	
+	{
+		"op": "replace", 
+		"path": "/floranDescription", 
+		"value": "Floran use thisss magic panel to talk to ANGELA!"
+	},
+	
+	{
+		"op": "replace", 
+		"path": "/glitchDescription", 
+		"value": "Happy. This station allows me to talk to ANGELA."
+	},
+	
+	{
+		"op": "replace", 
+		"path": "/humanDescription", 
+		"value": "This station allows me to communicate with ANGELA."
+	},
+	
+	{
+		"op": "replace", 
+		"path": "/hylotlDescription", 
+		"value": "This console allows me to communicate with ANGELA."
+	},
+	
+	{
+		"op": "replace", 
+		"path": "/novakidDescription", 
+		"value": "This here station let's me talk with ANGELA."
+	},
+
+
+
+	{
+		"op" : "replace",
+		"path" : "/aegiDescription",
+		"value" : "This panel allows for interaction with ANGELA, the AI assistant."
+	},
+	
+	{
+		"op" : "replace",
+		"path" : "/avikanDescription",
+		"value" : "The Nomada doesn't like AIs like ANGELA, but the Protectorate insisted on installing it."
+	},
+	
+	{
+		"op" : "replace",
+		"path" : "/draunaarDescription",
+		"value" : "A station for interacting with ANGELA."
+	},
+	
+	{
+		"op" : "replace",
+		"path" : "/trinkDescription",
+		"value" : "I can speak to ANGELA using this console. It's good to have another AI on the ship."
+	},
+	
+	{
+		"op" : "replace",
+		"path" : "/hymidDescription",
+		"value" : "This console allows for interaction with ANGELA. It's nice to have someone to talk to."
+	},
+	
+	{
+		"op" : "replace",
+		"path" : "/notixDescription",
+		"value" : "ANGELA is one companion who will never fail you."
+	},
+	
+	{
+		"op" : "replace",
+		"path" : "/jorgasianDescription",
+		"value" : "A console for communicating with ANGELA."
+	},
+	
+	{
+		"op" : "replace",
+		"path" : "/drodenDescription",
+		"value" : "Detected ANGELA interface. Console enables communication with ANGELA."
+	},
+	
+	{
+		"op" : "replace",
+		"path" : "/akkimariDescription",
+		"value" : "Akki talk to ANGELA, AI-good."
+	},
+	
+
+	{
+		"op": "add", 
+		"path": "/scripts/1", 
+		"value": "/scripts/playerName.lua"
+	},
+	
+	
+	
+	{
+		"op": "replace", 
+		"path": "/chatPortrait", 
+		"value": "/ai/portraits/angela_portrait.png:yell.1"
+	},
+	
+	{
+		"op": "replace", 
+		"path": "/dialog/wakePlayer/5/1", 
+		"value": "/ai/portraits/angela_portrait.png:unique.7"
+	},
+	
+	{
+		"op": "replace", 
+		"path": "/dialog/wakePlayer/5/0", 
+		"value": "Rebooting requires a conscious entity to interact with the A.N.G.E.L.A console."
+	},
+	
+	{
+		"op": "replace", 
+		"path": "/dialog/wakePlayer/4/1", 
+		"value": "/ai/portraits/angela_portrait.png:unique.5"
+	},
+	
+	{
+		"op": "replace", 
+		"path": "/dialog/wakePlayer/3/1", 
+		"value": "/ai/portraits/angela_portrait.png:unique.3"
+	},
+	
+	{
+		"op": "replace", 
+		"path": "/dialog/wakePlayer/3/0", 
+		"value": "To reconnect with A.N.G.E.L.A please reboot."
+	},
+	
+	{
+		"op": "replace", 
+		"path": "/dialog/wakePlayer/2/1", 
+		"value": "/ai/portraits/angela_portrait.png:unique.2"
+	},
+	
+	{
+		"op": "replace", 
+		"path": "/dialog/wakePlayer/1/1", 
+		"value": "/ai/portraits/angela_portrait.png:unique.1"
+	},
+	
+	{
+		"op": "replace", 
+		"path": "/dialog/wakePlayer/0/1", 
+		"value": "/ai/portraits/angela_portrait.png:unique.0"
+	},
+	
+	{
+		"op": "replace", 
+		"path": "/dialog/wakeUp/0/1", 
+		"value": "/ai/portraits/angela_portrait.png:unique.1"
+	},
+	
+	{
+		"op": "replace", 
+		"path": "/dialog/wakeUp/1/0", 
+		"value": "Hello, <entityName>."
+	},
+	
+	{
+		"op": "replace", 
+		"path": "/dialog/wakeUp/1/1", 
+		"value": "/ai/portraits/angela_portrait.png:talk.0"
+	},
+	
+	{
+		"op": "replace", 
+		"path": "/dialog/wakeUp/2/1", 
+		"value": "/ai/portraits/angela_portrait.png:talk.1"
+	},
+	
+	{
+		"op": "replace", 
+		"path": "/dialog/wakeUp/3/0", 
+		"value": "I am also programmed to offer you various information, so please have no worry in speaking with me."
+	},
+	
+	{
+		"op": "replace", 
+		"path": "/dialog/wakeUp/3/1", 
+		"value": "/ai/portraits/angela_portrait.png:talk.2"
+	},
+	
+	{
+		"op": "replace", 
+		"path": "/dialog/wakeUp/4/0", 
+		"value": "However, before you ask, where are we now, I must say two things."
+	},
+	
+	{
+		"op": "replace", 
+		"path": "/dialog/wakeUp/4/1", 
+		"value": "/ai/portraits/angela_portrait.png:talk.3"
+	},
+	
+	{
+		"op": "replace", 
+		"path": "/dialog/wakeUp/2/0", 
+		"value": "I am ^#a7d9e8;A.N.G.E.L.A^white;, your advisor and secretary. I manage the maintainance of your wellbeing and your ship."
+	},
+	
+	{
+		"op": "add", 
+		"path": "/dialog/wakeUp/5",
+		"value": [
+			"Earth was attacked by an unknown force, and was subsequently annihilated. You can't go back.",
+			"/ai/portraits/angela_portrait.png:talk.0"
+		]
+	},
+	
+	{
+		"op": "add", 
+		"path": "/dialog/wakeUp/6",
+		"value": [
+			"The ship's navigation systems were damaged during escape. Our location is currently unknown.",
+			"/ai/portraits/angela_portrait.png:talk.1"
+		]
+	}
+]
