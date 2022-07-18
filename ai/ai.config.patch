@@ -9,216 +9,270 @@
 		"path": "/aiAnimations/talk/frameNumber",
 		"value": 4
 	},
-  {
-    "op": "replace",
-    "path": "/species/apex/aiFrames",
-    "value": "angela.png"
-  },
-  {
-    "op": "replace",
-    "path": "/species/apex/portraitFrames",
-    "value": "portraits/angela_portrait.png"
-  },
+	
+	
+	
+	{
+		"op": "replace",
+		"path": "/species/apex/aiFrames",
+		"value": "angela.png"
+	},
   
-  {
-    "op": "replace",
-    "path": "/species/avian/aiFrames",
-    "value": "angela.png"
-  },
-  {
-    "op": "replace",
-    "path": "/species/avian/portraitFrames",
-    "value": "portraits/angela_portrait.png"
-  },
+	{
+		"op": "replace",
+		"path": "/species/apex/portraitFrames",
+		"value": "portraits/angela_portrait.png"
+	},
   
-  {
-    "op": "replace",
-    "path": "/species/floran/aiFrames",
-    "value": "angela.png"
-  },
-  {
-    "op": "replace",
-    "path": "/species/floran/portraitFrames",
-    "value": "portraits/angela_portrait.png"
-  },
+	{
+		"op": "replace",
+		"path": "/species/avian/aiFrames",
+		"value": "angela.png"
+	},
   
-  {
-    "op": "replace",
-    "path": "/species/glitch/aiFrames",
-    "value": "angela.png"
-  },
-  {
-    "op": "replace",
-    "path": "/species/glitch/portraitFrames",
-    "value": "portraits/angela_portrait.png"
-  },
+	{
+		"op": "replace",
+		"path": "/species/avian/portraitFrames",
+		"value": "portraits/angela_portrait.png"
+	},
   
-  {
-    "op": "replace",
-    "path": "/species/human/aiFrames",
-    "value": "angela.png"
-  },
-  {
-    "op": "replace",
-    "path": "/species/human/portraitFrames",
-    "value": "portraits/angela_portrait.png"
-  },
+	{
+		"op": "replace",
+		"path": "/species/floran/aiFrames",
+		"value": "angela.png"
+	},
   
-  {
-    "op": "replace",
-    "path": "/species/novakid/aiFrames",
-    "value": "angela.png"
-  },
-  {
-    "op": "replace",
-    "path": "/species/novakid/portraitFrames",
-    "value": "portraits/angela_portrait.png"
-  },
+	{
+		"op": "replace",
+		"path": "/species/floran/portraitFrames",
+		"value": "portraits/angela_portrait.png"
+	},
   
-  {
-    "op": "replace",
-    "path": "/species/hylotl/aiFrames",
-    "value": "angela.png"
-  },
-  {
-    "op": "replace",
-    "path": "/species/hylotl/portraitFrames",
-    "value": "portraits/angela_portrait.png"
-  },
+	{
+		"op": "replace",
+		"path": "/species/glitch/aiFrames",
+		"value": "angela.png"
+	},
+  
+	{
+		"op": "replace",
+		"path": "/species/glitch/portraitFrames",
+		"value": "portraits/angela_portrait.png"
+	},
+  
+	{
+		"op": "replace",
+		"path": "/species/human/aiFrames",
+		"value": "angela.png"
+	},
+  
+	{
+		"op": "replace",
+		"path": "/species/human/portraitFrames",
+		"value": "portraits/angela_portrait.png"
+	},
+  
+	{
+		"op": "replace",
+		"path": "/species/novakid/aiFrames",
+		"value": "angela.png"
+	},
+	{
+		"op": "replace",
+		"path": "/species/novakid/portraitFrames",
+		"value": "portraits/angela_portrait.png"
+	},
+  
+  
+  
+	{
+		"op": "replace",
+		"path": "/species/hylotl/aiFrames",
+		"value": "angela.png"
+	},
+	{
+		"op": "replace",
+		"path": "/species/hylotl/portraitFrames",
+		"value": "portraits/angela_portrait.png"
+	},
 
-  {
-	"op" : "add",
-	"path" : "/species/kitsune",
-	"value" : {
-	  "aiFrames" : "angela.png",
-	  "portraitFrames" : "portraits/angela_portrait.png",
-	  "staticFrames" : "statickitsune.png"	
-	}
-  },
-  {
-	"op" : "add",
-	"path" : "/species/halfsea",
-	"value" : {
-	  "aiFrames" : "angela.png",
-	  "portraitFrames" : "portraits/angela_portrait.png",
-	  "staticFrames" : "statichalfsea.png"	
-	}
-  },
-  { 
-	"op" : "add",
-	"path" : "/species/neko",
-	"value" : {
+	{
+		"op" : "add",
+		"path" : "/species/kitsune",
+		"value" : {
 		"aiFrames" : "angela.png",
 		"portraitFrames" : "portraits/angela_portrait.png",
-		"staticFrames" : "staticGlitch.png"
-	}
-  },
-  { 
-    "op" : "add",
-    "path" : "/species/ningen",
-    "value" : {
-      "aiFrames" : "angela.png",
-      "portraitFrames" : "portraits/angela_portrait.png",
-      "staticFrames" : "staticNingen.png"
-    }
-  },
-  {
-	"op": "add", 
-	"path": "/species/neki",
-	"value": {
-		"aiFrames": "angela.png",
-		"portraitFrames": "portraits/angela_portrait.png",
-		"staticFrames": "staticNeki.png"
+		"staticFrames" : "statickitsune.png"	
 		}
-  },
-  {
-	"op" : "add",
-	"path" : "/species/arcanian",
-	"value" : {
+	},
+	
+	{
+		"op" : "add",
+		"path" : "/species/halfsea",
+		"value" : {
 		"aiFrames" : "angela.png",
 		"portraitFrames" : "portraits/angela_portrait.png",
-		"staticFrames" : "staticarcanian.png"	
+		"staticFrames" : "statichalfsea.png"	
+		}
+	},
+	
+	{ 
+		"op" : "add",
+		"path" : "/species/neko",
+		"value" : {
+			"aiFrames" : "angela.png",
+			"portraitFrames" : "portraits/angela_portrait.png",
+			"staticFrames" : "staticGlitch.png"
+		}
+	},
+	
+	{ 
+		"op" : "add",
+		"path" : "/species/ningen",
+		"value" : {
+		"aiFrames" : "angela.png",
+		"portraitFrames" : "portraits/angela_portrait.png",
+		"staticFrames" : "staticNingen.png"
+		}
+	},
+	
+	{
+		"op": "add", 
+		"path": "/species/neki",
+		"value": {
+			"aiFrames": "angela.png",
+			"portraitFrames": "portraits/angela_portrait.png",
+			"staticFrames": "staticNeki.png"
+			}
+	},
+	
+	{
+		"op" : "add",
+		"path" : "/species/arcanian",
+		"value" : {
+			"aiFrames" : "angela.png",
+			"portraitFrames" : "portraits/angela_portrait.png",
+			"staticFrames" : "staticarcanian.png"	
+		}
+	},
+	
+	{
+		"op" : "add",
+		"path" : "/species/avikan",
+		"value" : {
+			"aiFrames": "angela.png",
+			"portraitFrames": "portraits/angela_portrait.png",
+			"staticFrames" : "staticAvikan.png"
+		}
+	},
+	
+	{
+		"op" : "add",
+		"path" : "/species/droden",
+		"value" : {
+			"aiFrames": "angela.png",
+			"portraitFrames": "portraits/angela_portrait.png",
+			"staticFrames" : "staticDroden.png"
+		}
+	},
+	
+	{
+		"op" : "add",
+		"path" : "/species/trink",
+		"value" : {
+			"aiFrames": "angela.png",
+			"portraitFrames": "portraits/angela_portrait.png",
+			"staticFrames" : "staticTrink.png"
+		}
+	},
+	
+	{ 
+		"op" : "add",
+		"path" : "/species/aegi",
+		"value" : {
+			"aiFrames": "angela.png",
+			"portraitFrames": "portraits/angela_portrait.png",
+			"staticFrames" : "staticAegi.png"
+		}
+	},
+	
+	{ 
+		"op" : "add",
+		"path" : "/species/akkimari",
+		"value" : {
+			"aiFrames": "angela.png",
+			"portraitFrames": "portraits/angela_portrait.png",
+			"staticFrames" : "staticAkkimari.png"
+		}
+	},
+	
+	{
+		"op" : "add",
+		"path" : "/species/gic_android",
+		"value" : {
+			"aiFrames": "angela.png",
+			"portraitFrames": "portraits/angela_portrait.png",
+			"staticFrames" : "staticgic_android.png"	
+		}
+	},
+	
+	{
+		"op" : "add",
+		"path" : "/species/gic_realistichuman",
+		"value" : {
+			"aiFrames": "angela.png",
+			"portraitFrames": "portraits/angela_portrait.png",
+			"staticFrames" : "staticgic_realistichuman.png"	
+		}
+	},
+	
+	{
+		"op" : "add",
+		"path" : "/species/gic_realisticfloran",
+		"value" : {
+			"aiFrames": "angela.png",
+			"portraitFrames": "portraits/angela_portrait.png",
+			"staticFrames" : "staticgic_realisticfloran.png"	
+		}
+	},
+	
+	{
+		"op" : "add",
+		"path" : "/species/gic_humanoidcombatrobot",
+		"value" : {
+			"aiFrames": "angela.png",
+			"portraitFrames": "portraits/angela_portrait.png",
+			"staticFrames" : "staticgic_realistichuman.png"	
+		}
+	},
+
+	{
+		"op" : "add",
+		"path" : "/species/Indix",
+		"value" : {
+			"aiFrames": "angela.png",
+			"portraitFrames": "portraits/angela_portrait.png",
+			"staticFrames" : "staticIndix.png"	
+		}
+	},
+	
+	{
+		"op" : "add",
+		"path" : "/species/lastree",
+		"value" : {
+			"aiFrames": "angela.png",
+			"portraitFrames": "portraits/angela_portrait.png",
+			"staticFrames" : "staticlastree.png"	
+		}
+	},
+	
+	{
+		"op" : "add",
+		"path" : "/species/mechineki",
+		"value" : {
+			"aiFrames": "angela.png",
+			"portraitFrames": "portraits/angela_portrait.png",
+			"staticFrames" : "staticmechineki.png"	
+		}
 	}
-  },
-  {
-	"op" : "add",
-	"path" : "/species/avikan",
-	"value" : {
-	  "aiFrames": "angela.png",
-	"portraitFrames": "portraits/angela_portrait.png",
-	  "staticFrames" : "staticAvikan.png"
-	}
-  },
-  {
-	"op" : "add",
-	"path" : "/species/droden",
-	"value" : {
-		"aiFrames": "angela.png",
-		"portraitFrames": "portraits/angela_portrait.png",
-		"staticFrames" : "staticDroden.png"
-	}
-  },
-  {
-	"op" : "add",
-	"path" : "/species/trink",
-	"value" : {
-		"aiFrames": "angela.png",
-		"portraitFrames": "portraits/angela_portrait.png",
-		"staticFrames" : "staticTrink.png"
-	}
-  },
-  { 
-	"op" : "add",
-	"path" : "/species/aegi",
-	"value" : {
-		"aiFrames": "angela.png",
-		"portraitFrames": "portraits/angela_portrait.png",
-		"staticFrames" : "staticAegi.png"
-	}
-  },
-  { 
-	"op" : "add",
-	"path" : "/species/akkimari",
-	"value" : {
-		"aiFrames": "angela.png",
-		"portraitFrames": "portraits/angela_portrait.png",
-		"staticFrames" : "staticAkkimari.png"
-	}
-  },
-  {
-	"op" : "add",
-	"path" : "/species/gic_android",
-	"value" : {
-		"aiFrames": "angela.png",
-		"portraitFrames": "portraits/angela_portrait.png",
-		"staticFrames" : "staticgic_android.png"	
-	}
-  },
-  {
-	"op" : "add",
-	"path" : "/species/gic_realistichuman",
-	"value" : {
-		"aiFrames": "angela.png",
-		"portraitFrames": "portraits/angela_portrait.png",
-		"staticFrames" : "staticgic_realistichuman.png"	
-	}
-  },
-  {
-	"op" : "add",
-	"path" : "/species/gic_realisticfloran",
-	"value" : {
-		"aiFrames": "angela.png",
-		"portraitFrames": "portraits/angela_portrait.png",
-		"staticFrames" : "staticgic_realisticfloran.png"	
-	}
-  },
-  {
-	"op" : "add",
-	"path" : "/species/gic_humanoidcombatrobot",
-	"value" : {
-		"aiFrames": "angela.png",
-		"portraitFrames": "portraits/angela_portrait.png",
-		"staticFrames" : "staticgic_realistichuman.png"	
-	}
-  }
 ]
